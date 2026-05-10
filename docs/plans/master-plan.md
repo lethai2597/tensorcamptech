@@ -21,7 +21,7 @@ Kế hoạch phát triển nền tảng TensorCamp được chia thành **20 pha
 
 ### Nền tảng (Foundation)
 
-- [ ] **Phase 01** — [Project Setup Foundation](./phase-01-project-setup-foundation.md)
+- [x] **Phase 01** — [Project Setup Foundation](./phase-01-project-setup-foundation.md) ✅ 2026-05-10
 - [ ] **Phase 02** — [Database Schema Design](./phase-02-database-schema-design.md)
 - [ ] **Phase 03** — [Google Authentication](./phase-03-google-authentication.md)
 - [ ] **Phase 04** — [Public Layout Shell](./phase-04-public-layout-shell.md)
